@@ -1,0 +1,32 @@
+.likecom_btn{
+    display: grid;
+    flex-direction: row;
+    color: rgb(255, 255, 255);
+    margin-top: -420px;
+    margin-left: 310px;
+    gap: 5px;
+    cursor: pointer;
+    position: relative;
+
+}
+.Subscribe{
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    gap: 13px;
+    margin-top: -70px;
+    margin-right: 20px;
+    position: relative;
+}
+.btnSub{
+    padding: 10px 35px ;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-left: 50px ;
+    position: relative;
+}

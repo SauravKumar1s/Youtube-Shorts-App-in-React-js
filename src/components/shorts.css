@@ -1,0 +1,23 @@
+.real-section {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  scroll-snap-align: start;
+  position: relative;
+
+}
+.videoWatch {
+  width: 200px;
+  height: 43rem;
+  background-color: rgb(255, 255, 255);
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 20px;
+  align-items: center;
+  min-width: 380px;
+  bottom: -20px;
+  position: relative;
+  scroll-snap-align: start;
+  object-fit: fill;
+}
+
