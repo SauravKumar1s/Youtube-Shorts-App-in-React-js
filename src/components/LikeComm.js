@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./like.css";
-import ThumbUpIcon from "@mui/icons-material/ThumbUp";
 import ThumbDownIcon from "@mui/icons-material/ThumbDown";
 import InsertCommentIcon from "@mui/icons-material/InsertComment";
 import ShareIcon from "@mui/icons-material/Share";
